@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: ce0f1052ba5bf9f429ab5c5cf2361e65
+timeCreated: 1506986333
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hand
+    100004: L_holder
+    100006: L_luck
+    100008: middel_part
+    100010: outside
+    100012: pCube1
+    100014: pCube2
+    100016: polySurface29
+    100018: polySurface34
+    100020: polySurface35
+    100022: polySurface39
+    100024: pPlane1
+    100026: pPlane2
+    100028: R_luck
+    400000: //RootNode
+    400002: Hand
+    400004: L_holder
+    400006: L_luck
+    400008: middel_part
+    400010: outside
+    400012: pCube1
+    400014: pCube2
+    400016: polySurface29
+    400018: polySurface34
+    400020: polySurface35
+    400022: polySurface39
+    400024: pPlane1
+    400026: pPlane2
+    400028: R_luck
+    2300000: Hand
+    2300002: L_holder
+    2300004: L_luck
+    2300006: middel_part
+    2300008: outside
+    2300010: pCube1
+    2300012: pCube2
+    2300014: polySurface29
+    2300016: polySurface34
+    2300018: polySurface35
+    2300020: polySurface39
+    2300022: pPlane1
+    2300024: pPlane2
+    2300026: R_luck
+    3300000: Hand
+    3300002: L_holder
+    3300004: L_luck
+    3300006: middel_part
+    3300008: outside
+    3300010: pCube1
+    3300012: pCube2
+    3300014: polySurface29
+    3300016: polySurface34
+    3300018: polySurface35
+    3300020: polySurface39
+    3300022: pPlane1
+    3300024: pPlane2
+    3300026: R_luck
+    4300000: middel_part
+    4300002: L_luck
+    4300004: polySurface34
+    4300006: polySurface35
+    4300008: pPlane1
+    4300010: polySurface29
+    4300012: polySurface39
+    4300014: pPlane2
+    4300016: outside
+    4300018: L_holder
+    4300020: R_luck
+    4300022: pCube2
+    4300024: pCube1
+    4300026: Hand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

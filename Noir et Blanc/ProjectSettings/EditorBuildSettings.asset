@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level 1-1-Lobby.unity
+    guid: 246dedcb1a5cc2848a12068163ba707d
+  - enabled: 1
+    path: Assets/Scenes/Level 1-2-Offices.unity
+    guid: 1d6557da360992249a3d6eb2db112198
+  - enabled: 1
+    path: Assets/Scenes/Level 1-3-Museum.unity
+    guid: f7c8311d312204441b3d9bc7673985cc
+  - enabled: 1
+    path: Assets/Scenes/Level 1-4-Viewing Room.unity
+    guid: c67f81798e8b2b94788501456379d15a
+  - enabled: 1
+    path: Assets/Scenes/Level1-5-Herr Rot's Office.unity
+    guid: 0e151f167739e524bbbbf643db864c89
+  - enabled: 1
+    path: Assets/Scenes/test_room.unity
+    guid: 50dd9cd4ffed7e448b1bcac6d80673e6
